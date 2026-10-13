@@ -337,11 +337,11 @@ class ___cloud___:
 			sleep(2)
 			self.filex()
 		print(f"  {C}┌──────────────────────────────┐")
-		print(f"  {C}├{W}[{R}1{W}]>{Y}> {G}SERVER M-1              {C}│")
-		print(f"  {C}├{W}[{R}2{W}]>{Y}> {G}SERVER M-2              {C}│")
-		print(f"  {C}├{W}[{R}3{W}]>{Y}> {G}SERVER M-3              {C}│")
-		print(f"  {C}├{W}[{R}4{W}]>{Y}> {G}SERVER M-4              {C}│")
-		print(f"  {C}├{W}[{R}5{W}]>{Y}> {G}SERVER M-5              {C}│")
+		print(f"  {C}├{W}[{R}1{W}]>{Y}> {G}GRAPH M-1              {C}│")
+		print(f"  {C}├{W}[{R}2{W}]>{Y}> {G}B-GRAPH M-2              {C}│")
+		print(f"  {C}├{W}[{R}3{W}]>{Y}> {G}API M-3              {C}│")
+		print(f"  {C}├{W}[{R}4{W}]>{Y}> {G}B-API M-4              {C}│")
+		print(f"  {C}├{W}[{R}5{W}]>{Y}> {G}GRAPH M-5              {C}│")
 		print(f"  {C}└──────────────────────────────┘")
 		mts=input(f"  {C}└─✈ {G}INPUT METHOD {W}<{Y}>{G} ")
 		clear()
@@ -356,9 +356,9 @@ class ___cloud___:
 		if joyxdbangla == "1":
 			self.plist.extend(["md first","first","first12","first123","first1234","first12345","first123456","last","last12","last123","last1234","last12345","last123456","first321","first4321","mdfirst","last321","mdlast","mdfirstlast","firstlast","firstlast12","firstlast123"])
 		if joyxdbangla == "2":
-			self.plist.extend(["First Last","first last","firstlast","first112233","first123456","first12345","first1234","first123","first12","mdfirst","first1122","first4321","first321","md first","first","00009999"])
+			self.plist.extend(["First Last","first last","firstlast","first112233","first123456","first12345","first1234","first123","first12","mdfirst","first1122","first4321","first321","md first","first"])
 		if joyxdbangla == "3":
-			self.plist.extend(["First Last","first last","firstlast","first112233","first123456","first12345","first1234","first123","first12","mdfirst","first1122","first4321","first321","md first","first","00009999"])
+			self.plist.extend(["First Last","first last","firstlast","first112233","first123456","first12345","first1234","first123","first12","mdfirst","first1122","first4321","first321","md first","first"])
 		if joyxdbangla not in ["1","2","3"]:
 			try:
 				clear()
