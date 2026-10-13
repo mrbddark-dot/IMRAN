@@ -285,7 +285,7 @@ def ___UAH___():
 logo = f"""
   {C}╭──────────────────────────────╮
   │      {W}WELCOME TO USER{C}         │
-  │  {G}EDITOR   {W}>{Y}> {G}IMRAN{C}  │
+  │  {G}EDITOR   {W}>{Y}> {G}IMRAN{C}           │
   │  {G}TOOLS   {W}>{Y}> {G}FILE CLONE{C}       │
   │  {G}VERSION {W}>{Y}> {P}0.2{C}              │
   ╰──────────────────────────────╯{W}"""
