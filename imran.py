@@ -373,7 +373,7 @@ class ___cloud___:
 		clear()
 		print(f"  {C}┌──────────────────────────────┐")
 		print(f"  {C}├{W}[{R}1{W}]>{Y}> {G}CRACK  SPEED NORMAL {W}[{R}30{W}]{C}│")
-		print(f"  {C}├{W}[{R}1{W}]>{Y}> {G}CUSTOM  SPEED {W}[{R}20-90{W}]   {C}│")
+		print(f"  {C}├{W}[{R}2{W}]>{Y}> {G}CUSTOM  SPEED {W}[{R}20-90{W}]   {C}│")
 		print(f"  {C}└──────────────────────────────┘")
 		crsp=input(f"  {C}└─✈ {G}INPUT CRACK SPEED OPTION {W}<{Y}>{G} ")
 		if crsp == "1":
